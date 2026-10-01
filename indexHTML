@@ -13,12 +13,12 @@
                  of the irrigation water.</FONT></H2>
 
                  <NAVIGATION>
-                 <a href="DASHBOARD.html">DASHBOARD</a>
-                 <a href="INDEX.HTML">HOME</a>
-                 <a href="IRRIGATION.html">IRRIGATION</a>
-                 <a href ="AI INSIGTH.html">AI INSIGTH</a>
-                 <a href="SENSOR.html">SENSOR</a>
-                 <a href="SETTINGS.html">SETTINGS</a>
+                 <a href="dashboard.html">DASHBOARD</a>
+                 <a href="index.">HOME</a>
+                 <a href="irrigation.html">IRRIGATION</a>
+                 <a href ="AI_insigth.html">AI INSIGTH</a>
+                 <a href="sensor.html">SENSOR</a>
+                 <a href="setting.html">SETTINGS</a>
                  </NAVIGATION>
         </BODY>
     </HEAD>
